@@ -1,0 +1,14 @@
+site_name: Arco
+site_author: Fulano de Tal
+
+# Já publica o site. Visite depois: http://192.168.56.77
+site_dir: /var/www/html
+
+theme:
+  name: material
+  language: pt
+
+plugins:
+  - search
+  - mermaid2
+
