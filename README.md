@@ -1,5 +1,7 @@
 # Markdown com diagramas do Mermaid JS no MkDocs
 
+[![asciicast](https://asciinema.org/a/716342.svg)](https://asciinema.org/a/716342)
+
 1. Vamos criar um diretório chamado `arco`:
 
    - mkdir -v arco
